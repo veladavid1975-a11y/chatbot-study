@@ -25,3 +25,5 @@ Botones → guarda en field: menu_choice
               ├── Hablar con agente → Mensaje: "Te paso con un agente 👩‍💻"  
               └── Revisar FAQs → Mensaje con 2–3 FAQs  
 
+## Metáfora personal
+Para mí, **Git** es como las canciones que compongo, y **GitHub** es el álbum donde las publico.
