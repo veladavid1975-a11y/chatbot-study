@@ -30,3 +30,4 @@ Para mí, **Git** es como las canciones que compongo, y **GitHub** es el álbum 
 ## Mis próximos pasos
 - Aprender a hacer commits desde mi computadora (no solo desde la web).
 - Entender ramas (branches) para trabajar en paralelo.
+- Este es mi primer cambio desde mi computadora 🚀
