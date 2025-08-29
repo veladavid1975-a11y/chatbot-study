@@ -27,3 +27,6 @@ Botones → guarda en field: menu_choice
 
 ## Metáfora personal
 Para mí, **Git** es como las canciones que compongo, y **GitHub** es el álbum donde las publico.
+## Mis próximos pasos
+- Aprender a hacer commits desde mi computadora (no solo desde la web).
+- Entender ramas (branches) para trabajar en paralelo.
