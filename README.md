@@ -31,3 +31,8 @@ Para mí, **Git** es como las canciones que compongo, y **GitHub** es el álbum 
 - Aprender a hacer commits desde mi computadora (no solo desde la web).
 - Entender ramas (branches) para trabajar en paralelo.
 - Este es mi primer cambio desde mi computadora 🚀
+Rama Soporte → Contactar contigo
+   ↓
+Ask for email → guarda en field: email
+   ↓
+Mensaje: "Perfecto, te enviaré la info a @email"
